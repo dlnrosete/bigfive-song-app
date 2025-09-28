@@ -1,0 +1,974 @@
+{
+  "O1-C1-E1-A1-N1": [
+    "Bohemian Rhapsody \u2014 Queen",
+    "Smells Like Teen Spirit \u2014 Nirvana"
+  ],
+  "O1-C1-E1-A1-N2": [
+    "Billie Jean \u2014 Michael Jackson",
+    "Shape of You \u2014 Ed Sheeran"
+  ],
+  "O1-C1-E1-A1-N3": [
+    "Blinding Lights \u2014 The Weeknd",
+    "Rolling in the Deep \u2014 Adele"
+  ],
+  "O1-C1-E1-A2-N1": [
+    "Lose Yourself \u2014 Eminem",
+    "Viva La Vida \u2014 Coldplay"
+  ],
+  "O1-C1-E1-A2-N2": [
+    "Radioactive \u2014 Imagine Dragons",
+    "Chandelier \u2014 Sia"
+  ],
+  "O1-C1-E1-A2-N3": [
+    "Uptown Funk \u2014 Mark Ronson ft. Bruno Mars",
+    "Wonderwall \u2014 Oasis"
+  ],
+  "O1-C1-E1-A3-N1": [
+    "Somebody That I Used to Know \u2014 Gotye",
+    "Numb \u2014 Linkin Park"
+  ],
+  "O1-C1-E1-A3-N2": [
+    "Hey Ya! \u2014 Outkast",
+    "Mr. Brightside \u2014 The Killers"
+  ],
+  "O1-C1-E1-A3-N3": [
+    "Levitating \u2014 Dua Lipa",
+    "Stairway to Heaven \u2014 Led Zeppelin"
+  ],
+  "O1-C1-E2-A1-N1": [
+    "Poker Face \u2014 Lady Gaga",
+    "Humble \u2014 Kendrick Lamar"
+  ],
+  "O1-C1-E2-A1-N2": [
+    "Firework \u2014 Katy Perry",
+    "Creep \u2014 Radiohead"
+  ],
+  "O1-C1-E2-A1-N3": [
+    "All of Me \u2014 John Legend",
+    "I Will Always Love You \u2014 Whitney Houston"
+  ],
+  "O1-C1-E2-A2-N1": [
+    "Bad Guy \u2014 Billie Eilish",
+    "Juice \u2014 Lizzo"
+  ],
+  "O1-C1-E2-A2-N2": [
+    "Happy \u2014 Pharrell Williams",
+    "Take On Me \u2014 a-ha"
+  ],
+  "O1-C1-E2-A2-N3": [
+    "Stronger \u2014 Kanye West",
+    "Shallow \u2014 Lady Gaga & Bradley Cooper"
+  ],
+  "O1-C1-E2-A3-N1": [
+    "Heroes \u2014 David Bowie",
+    "Titanium \u2014 David Guetta ft. Sia"
+  ],
+  "O1-C1-E2-A3-N2": [
+    "Boulevard of Broken Dreams \u2014 Green Day",
+    "Stayin' Alive \u2014 Bee Gees"
+  ],
+  "O1-C1-E2-A3-N3": [
+    "Castle on the Hill \u2014 Ed Sheeran",
+    "Seven Nation Army \u2014 The White Stripes"
+  ],
+  "O1-C1-E3-A1-N1": [
+    "Shake It Off \u2014 Taylor Swift",
+    "Old Town Road \u2014 Lil Nas X"
+  ],
+  "O1-C1-E3-A1-N2": [
+    "Someone Like You \u2014 Adele",
+    "I Gotta Feeling \u2014 Black Eyed Peas"
+  ],
+  "O1-C1-E3-A1-N3": [
+    "Let It Be \u2014 The Beatles",
+    "Born to Run \u2014 Bruce Springsteen"
+  ],
+  "O1-C1-E3-A2-N1": [
+    "Eye of the Tiger \u2014 Survivor",
+    "Dreams \u2014 Fleetwood Mac"
+  ],
+  "O1-C1-E3-A2-N2": [
+    "Toxic \u2014 Britney Spears",
+    "Lose Control \u2014 Missy Elliott"
+  ],
+  "O1-C1-E3-A2-N3": [
+    "Good 4 U \u2014 Olivia Rodrigo",
+    "Runaway \u2014 Kanye West"
+  ],
+  "O1-C1-E3-A3-N1": [
+    "No Tears Left to Cry \u2014 Ariana Grande",
+    "Clocks \u2014 Coldplay"
+  ],
+  "O1-C1-E3-A3-N2": [
+    "Can't Stop the Feeling \u2014 Justin Timberlake",
+    "Without Me \u2014 Halsey"
+  ],
+  "O1-C1-E3-A3-N3": [
+    "Lucid Dreams \u2014 Juice WRLD",
+    "Summertime Sadness \u2014 Lana Del Rey"
+  ],
+  "O1-C2-E1-A1-N1": [
+    "In the End \u2014 Linkin Park",
+    "Dancing Queen \u2014 ABBA"
+  ],
+  "O1-C2-E1-A1-N2": [
+    "Counting Stars \u2014 OneRepublic",
+    "Paint It Black \u2014 The Rolling Stones"
+  ],
+  "O1-C2-E1-A1-N3": [
+    "Sweet Child O' Mine \u2014 Guns N' Roses",
+    "Enter Sandman \u2014 Metallica"
+  ],
+  "O1-C2-E1-A2-N1": [
+    "Back to Black \u2014 Amy Winehouse",
+    "Royals \u2014 Lorde"
+  ],
+  "O1-C2-E1-A2-N2": [
+    "Perfect \u2014 Ed Sheeran",
+    "Happier Than Ever \u2014 Billie Eilish"
+  ],
+  "O1-C2-E1-A2-N3": [
+    "Moves Like Jagger \u2014 Maroon 5",
+    "Can\u2019t Feel My Face \u2014 The Weeknd"
+  ],
+  "O1-C2-E1-A3-N1": [
+    "Rehab \u2014 Amy Winehouse",
+    "Sorry \u2014 Justin Bieber"
+  ],
+  "O1-C2-E1-A3-N2": [
+    "I Kissed a Girl \u2014 Katy Perry",
+    "Dark Horse \u2014 Katy Perry"
+  ],
+  "O1-C2-E1-A3-N3": [
+    "Tears Dry on Their Own \u2014 Amy Winehouse",
+    "Don\u2019t Stop Believin\u2019 \u2014 Journey"
+  ],
+  "O1-C2-E2-A1-N1": [
+    "Come As You Are \u2014 Nirvana",
+    "All Star \u2014 Smash Mouth"
+  ],
+  "O1-C2-E2-A1-N2": [
+    "Livin\u2019 on a Prayer \u2014 Bon Jovi",
+    "Shake It Out \u2014 Florence + The Machine"
+  ],
+  "O1-C2-E2-A1-N3": [
+    "Time \u2014 Pink Floyd",
+    "Bad Romance \u2014 Lady Gaga"
+  ],
+  "O1-C2-E2-A2-N1": [
+    "Closer \u2014 The Chainsmokers",
+    "Faded \u2014 Alan Walker"
+  ],
+  "O1-C2-E2-A2-N2": [
+    "Hall of Fame \u2014 The Script",
+    "Believer \u2014 Imagine Dragons"
+  ],
+  "O1-C2-E2-A2-N3": [
+    "Say My Name \u2014 Destiny\u2019s Child",
+    "Single Ladies \u2014 Beyonc\u00e9"
+  ],
+  "O1-C2-E2-A3-N1": [
+    "Survivor \u2014 Destiny\u2019s Child",
+    "Break Free \u2014 Ariana Grande"
+  ],
+  "O1-C2-E2-A3-N2": [
+    "Love Story \u2014 Taylor Swift",
+    "Enchanted \u2014 Taylor Swift"
+  ],
+  "O1-C2-E2-A3-N3": [
+    "Style \u2014 Taylor Swift",
+    "Karma Police \u2014 Radiohead"
+  ],
+  "O1-C2-E3-A1-N1": [
+    "Black Hole Sun \u2014 Soundgarden",
+    "Nothing Else Matters \u2014 Metallica"
+  ],
+  "O1-C2-E3-A1-N2": [
+    "Smack That \u2014 Akon",
+    "Gimme Shelter \u2014 The Rolling Stones"
+  ],
+  "O1-C2-E3-A1-N3": [
+    "Comfortably Numb \u2014 Pink Floyd",
+    "All the Small Things \u2014 Blink-182"
+  ],
+  "O1-C2-E3-A2-N1": [
+    "Welcome to the Jungle \u2014 Guns N\u2019 Roses",
+    "Bohemian Rhapsody \u2014 Queen"
+  ],
+  "O1-C2-E3-A2-N2": [
+    "Smells Like Teen Spirit \u2014 Nirvana",
+    "Billie Jean \u2014 Michael Jackson"
+  ],
+  "O1-C2-E3-A2-N3": [
+    "Shape of You \u2014 Ed Sheeran",
+    "Blinding Lights \u2014 The Weeknd"
+  ],
+  "O1-C2-E3-A3-N1": [
+    "Rolling in the Deep \u2014 Adele",
+    "Lose Yourself \u2014 Eminem"
+  ],
+  "O1-C2-E3-A3-N2": [
+    "Viva La Vida \u2014 Coldplay",
+    "Radioactive \u2014 Imagine Dragons"
+  ],
+  "O1-C2-E3-A3-N3": [
+    "Chandelier \u2014 Sia",
+    "Uptown Funk \u2014 Mark Ronson ft. Bruno Mars"
+  ],
+  "O1-C3-E1-A1-N1": [
+    "Wonderwall \u2014 Oasis",
+    "Somebody That I Used to Know \u2014 Gotye"
+  ],
+  "O1-C3-E1-A1-N2": [
+    "Numb \u2014 Linkin Park",
+    "Hey Ya! \u2014 Outkast"
+  ],
+  "O1-C3-E1-A1-N3": [
+    "Mr. Brightside \u2014 The Killers",
+    "Levitating \u2014 Dua Lipa"
+  ],
+  "O1-C3-E1-A2-N1": [
+    "Stairway to Heaven \u2014 Led Zeppelin",
+    "Poker Face \u2014 Lady Gaga"
+  ],
+  "O1-C3-E1-A2-N2": [
+    "Humble \u2014 Kendrick Lamar",
+    "Firework \u2014 Katy Perry"
+  ],
+  "O1-C3-E1-A2-N3": [
+    "Creep \u2014 Radiohead",
+    "All of Me \u2014 John Legend"
+  ],
+  "O1-C3-E1-A3-N1": [
+    "I Will Always Love You \u2014 Whitney Houston",
+    "Bad Guy \u2014 Billie Eilish"
+  ],
+  "O1-C3-E1-A3-N2": [
+    "Juice \u2014 Lizzo",
+    "Happy \u2014 Pharrell Williams"
+  ],
+  "O1-C3-E1-A3-N3": [
+    "Take On Me \u2014 a-ha",
+    "Stronger \u2014 Kanye West"
+  ],
+  "O1-C3-E2-A1-N1": [
+    "Shallow \u2014 Lady Gaga & Bradley Cooper",
+    "Heroes \u2014 David Bowie"
+  ],
+  "O1-C3-E2-A1-N2": [
+    "Titanium \u2014 David Guetta ft. Sia",
+    "Boulevard of Broken Dreams \u2014 Green Day"
+  ],
+  "O1-C3-E2-A1-N3": [
+    "Stayin' Alive \u2014 Bee Gees",
+    "Castle on the Hill \u2014 Ed Sheeran"
+  ],
+  "O1-C3-E2-A2-N1": [
+    "Seven Nation Army \u2014 The White Stripes",
+    "Shake It Off \u2014 Taylor Swift"
+  ],
+  "O1-C3-E2-A2-N2": [
+    "Old Town Road \u2014 Lil Nas X",
+    "Someone Like You \u2014 Adele"
+  ],
+  "O1-C3-E2-A2-N3": [
+    "I Gotta Feeling \u2014 Black Eyed Peas",
+    "Let It Be \u2014 The Beatles"
+  ],
+  "O1-C3-E2-A3-N1": [
+    "Born to Run \u2014 Bruce Springsteen",
+    "Eye of the Tiger \u2014 Survivor"
+  ],
+  "O1-C3-E2-A3-N2": [
+    "Dreams \u2014 Fleetwood Mac",
+    "Toxic \u2014 Britney Spears"
+  ],
+  "O1-C3-E2-A3-N3": [
+    "Lose Control \u2014 Missy Elliott",
+    "Good 4 U \u2014 Olivia Rodrigo"
+  ],
+  "O1-C3-E3-A1-N1": [
+    "Runaway \u2014 Kanye West",
+    "No Tears Left to Cry \u2014 Ariana Grande"
+  ],
+  "O1-C3-E3-A1-N2": [
+    "Clocks \u2014 Coldplay",
+    "Can't Stop the Feeling \u2014 Justin Timberlake"
+  ],
+  "O1-C3-E3-A1-N3": [
+    "Without Me \u2014 Halsey",
+    "Lucid Dreams \u2014 Juice WRLD"
+  ],
+  "O1-C3-E3-A2-N1": [
+    "Summertime Sadness \u2014 Lana Del Rey",
+    "In the End \u2014 Linkin Park"
+  ],
+  "O1-C3-E3-A2-N2": [
+    "Dancing Queen \u2014 ABBA",
+    "Counting Stars \u2014 OneRepublic"
+  ],
+  "O1-C3-E3-A2-N3": [
+    "Paint It Black \u2014 The Rolling Stones",
+    "Sweet Child O' Mine \u2014 Guns N' Roses"
+  ],
+  "O1-C3-E3-A3-N1": [
+    "Enter Sandman \u2014 Metallica",
+    "Back to Black \u2014 Amy Winehouse"
+  ],
+  "O1-C3-E3-A3-N2": [
+    "Royals \u2014 Lorde",
+    "Perfect \u2014 Ed Sheeran"
+  ],
+  "O1-C3-E3-A3-N3": [
+    "Happier Than Ever \u2014 Billie Eilish",
+    "Moves Like Jagger \u2014 Maroon 5"
+  ],
+  "O2-C1-E1-A1-N1": [
+    "Can\u2019t Feel My Face \u2014 The Weeknd",
+    "Rehab \u2014 Amy Winehouse"
+  ],
+  "O2-C1-E1-A1-N2": [
+    "Sorry \u2014 Justin Bieber",
+    "I Kissed a Girl \u2014 Katy Perry"
+  ],
+  "O2-C1-E1-A1-N3": [
+    "Dark Horse \u2014 Katy Perry",
+    "Tears Dry on Their Own \u2014 Amy Winehouse"
+  ],
+  "O2-C1-E1-A2-N1": [
+    "Don\u2019t Stop Believin\u2019 \u2014 Journey",
+    "Come As You Are \u2014 Nirvana"
+  ],
+  "O2-C1-E1-A2-N2": [
+    "All Star \u2014 Smash Mouth",
+    "Livin\u2019 on a Prayer \u2014 Bon Jovi"
+  ],
+  "O2-C1-E1-A2-N3": [
+    "Shake It Out \u2014 Florence + The Machine",
+    "Time \u2014 Pink Floyd"
+  ],
+  "O2-C1-E1-A3-N1": [
+    "Bad Romance \u2014 Lady Gaga",
+    "Closer \u2014 The Chainsmokers"
+  ],
+  "O2-C1-E1-A3-N2": [
+    "Faded \u2014 Alan Walker",
+    "Hall of Fame \u2014 The Script"
+  ],
+  "O2-C1-E1-A3-N3": [
+    "Believer \u2014 Imagine Dragons",
+    "Say My Name \u2014 Destiny\u2019s Child"
+  ],
+  "O2-C1-E2-A1-N1": [
+    "Single Ladies \u2014 Beyonc\u00e9",
+    "Survivor \u2014 Destiny\u2019s Child"
+  ],
+  "O2-C1-E2-A1-N2": [
+    "Break Free \u2014 Ariana Grande",
+    "Love Story \u2014 Taylor Swift"
+  ],
+  "O2-C1-E2-A1-N3": [
+    "Enchanted \u2014 Taylor Swift",
+    "Style \u2014 Taylor Swift"
+  ],
+  "O2-C1-E2-A2-N1": [
+    "Karma Police \u2014 Radiohead",
+    "Black Hole Sun \u2014 Soundgarden"
+  ],
+  "O2-C1-E2-A2-N2": [
+    "Nothing Else Matters \u2014 Metallica",
+    "Smack That \u2014 Akon"
+  ],
+  "O2-C1-E2-A2-N3": [
+    "Gimme Shelter \u2014 The Rolling Stones",
+    "Comfortably Numb \u2014 Pink Floyd"
+  ],
+  "O2-C1-E2-A3-N1": [
+    "All the Small Things \u2014 Blink-182",
+    "Welcome to the Jungle \u2014 Guns N\u2019 Roses"
+  ],
+  "O2-C1-E2-A3-N2": [
+    "Bohemian Rhapsody \u2014 Queen",
+    "Smells Like Teen Spirit \u2014 Nirvana"
+  ],
+  "O2-C1-E2-A3-N3": [
+    "Billie Jean \u2014 Michael Jackson",
+    "Shape of You \u2014 Ed Sheeran"
+  ],
+  "O2-C1-E3-A1-N1": [
+    "Blinding Lights \u2014 The Weeknd",
+    "Rolling in the Deep \u2014 Adele"
+  ],
+  "O2-C1-E3-A1-N2": [
+    "Lose Yourself \u2014 Eminem",
+    "Viva La Vida \u2014 Coldplay"
+  ],
+  "O2-C1-E3-A1-N3": [
+    "Radioactive \u2014 Imagine Dragons",
+    "Chandelier \u2014 Sia"
+  ],
+  "O2-C1-E3-A2-N1": [
+    "Uptown Funk \u2014 Mark Ronson ft. Bruno Mars",
+    "Wonderwall \u2014 Oasis"
+  ],
+  "O2-C1-E3-A2-N2": [
+    "Somebody That I Used to Know \u2014 Gotye",
+    "Numb \u2014 Linkin Park"
+  ],
+  "O2-C1-E3-A2-N3": [
+    "Hey Ya! \u2014 Outkast",
+    "Mr. Brightside \u2014 The Killers"
+  ],
+  "O2-C1-E3-A3-N1": [
+    "Levitating \u2014 Dua Lipa",
+    "Stairway to Heaven \u2014 Led Zeppelin"
+  ],
+  "O2-C1-E3-A3-N2": [
+    "Poker Face \u2014 Lady Gaga",
+    "Humble \u2014 Kendrick Lamar"
+  ],
+  "O2-C1-E3-A3-N3": [
+    "Firework \u2014 Katy Perry",
+    "Creep \u2014 Radiohead"
+  ],
+  "O2-C2-E1-A1-N1": [
+    "All of Me \u2014 John Legend",
+    "I Will Always Love You \u2014 Whitney Houston"
+  ],
+  "O2-C2-E1-A1-N2": [
+    "Bad Guy \u2014 Billie Eilish",
+    "Juice \u2014 Lizzo"
+  ],
+  "O2-C2-E1-A1-N3": [
+    "Happy \u2014 Pharrell Williams",
+    "Take On Me \u2014 a-ha"
+  ],
+  "O2-C2-E1-A2-N1": [
+    "Stronger \u2014 Kanye West",
+    "Shallow \u2014 Lady Gaga & Bradley Cooper"
+  ],
+  "O2-C2-E1-A2-N2": [
+    "Heroes \u2014 David Bowie",
+    "Titanium \u2014 David Guetta ft. Sia"
+  ],
+  "O2-C2-E1-A2-N3": [
+    "Boulevard of Broken Dreams \u2014 Green Day",
+    "Stayin' Alive \u2014 Bee Gees"
+  ],
+  "O2-C2-E1-A3-N1": [
+    "Castle on the Hill \u2014 Ed Sheeran",
+    "Seven Nation Army \u2014 The White Stripes"
+  ],
+  "O2-C2-E1-A3-N2": [
+    "Shake It Off \u2014 Taylor Swift",
+    "Old Town Road \u2014 Lil Nas X"
+  ],
+  "O2-C2-E1-A3-N3": [
+    "Someone Like You \u2014 Adele",
+    "I Gotta Feeling \u2014 Black Eyed Peas"
+  ],
+  "O2-C2-E2-A1-N1": [
+    "Let It Be \u2014 The Beatles",
+    "Born to Run \u2014 Bruce Springsteen"
+  ],
+  "O2-C2-E2-A1-N2": [
+    "Eye of the Tiger \u2014 Survivor",
+    "Dreams \u2014 Fleetwood Mac"
+  ],
+  "O2-C2-E2-A1-N3": [
+    "Toxic \u2014 Britney Spears",
+    "Lose Control \u2014 Missy Elliott"
+  ],
+  "O2-C2-E2-A2-N1": [
+    "Good 4 U \u2014 Olivia Rodrigo",
+    "Runaway \u2014 Kanye West"
+  ],
+  "O2-C2-E2-A2-N2": [
+    "No Tears Left to Cry \u2014 Ariana Grande",
+    "Clocks \u2014 Coldplay"
+  ],
+  "O2-C2-E2-A2-N3": [
+    "Can't Stop the Feeling \u2014 Justin Timberlake",
+    "Without Me \u2014 Halsey"
+  ],
+  "O2-C2-E2-A3-N1": [
+    "Lucid Dreams \u2014 Juice WRLD",
+    "Summertime Sadness \u2014 Lana Del Rey"
+  ],
+  "O2-C2-E2-A3-N2": [
+    "In the End \u2014 Linkin Park",
+    "Dancing Queen \u2014 ABBA"
+  ],
+  "O2-C2-E2-A3-N3": [
+    "Counting Stars \u2014 OneRepublic",
+    "Paint It Black \u2014 The Rolling Stones"
+  ],
+  "O2-C2-E3-A1-N1": [
+    "Sweet Child O' Mine \u2014 Guns N' Roses",
+    "Enter Sandman \u2014 Metallica"
+  ],
+  "O2-C2-E3-A1-N2": [
+    "Back to Black \u2014 Amy Winehouse",
+    "Royals \u2014 Lorde"
+  ],
+  "O2-C2-E3-A1-N3": [
+    "Perfect \u2014 Ed Sheeran",
+    "Happier Than Ever \u2014 Billie Eilish"
+  ],
+  "O2-C2-E3-A2-N1": [
+    "Moves Like Jagger \u2014 Maroon 5",
+    "Can\u2019t Feel My Face \u2014 The Weeknd"
+  ],
+  "O2-C2-E3-A2-N2": [
+    "Rehab \u2014 Amy Winehouse",
+    "Sorry \u2014 Justin Bieber"
+  ],
+  "O2-C2-E3-A2-N3": [
+    "I Kissed a Girl \u2014 Katy Perry",
+    "Dark Horse \u2014 Katy Perry"
+  ],
+  "O2-C2-E3-A3-N1": [
+    "Tears Dry on Their Own \u2014 Amy Winehouse",
+    "Don\u2019t Stop Believin\u2019 \u2014 Journey"
+  ],
+  "O2-C2-E3-A3-N2": [
+    "Come As You Are \u2014 Nirvana",
+    "All Star \u2014 Smash Mouth"
+  ],
+  "O2-C2-E3-A3-N3": [
+    "Livin\u2019 on a Prayer \u2014 Bon Jovi",
+    "Shake It Out \u2014 Florence + The Machine"
+  ],
+  "O2-C3-E1-A1-N1": [
+    "Time \u2014 Pink Floyd",
+    "Bad Romance \u2014 Lady Gaga"
+  ],
+  "O2-C3-E1-A1-N2": [
+    "Closer \u2014 The Chainsmokers",
+    "Faded \u2014 Alan Walker"
+  ],
+  "O2-C3-E1-A1-N3": [
+    "Hall of Fame \u2014 The Script",
+    "Believer \u2014 Imagine Dragons"
+  ],
+  "O2-C3-E1-A2-N1": [
+    "Say My Name \u2014 Destiny\u2019s Child",
+    "Single Ladies \u2014 Beyonc\u00e9"
+  ],
+  "O2-C3-E1-A2-N2": [
+    "Survivor \u2014 Destiny\u2019s Child",
+    "Break Free \u2014 Ariana Grande"
+  ],
+  "O2-C3-E1-A2-N3": [
+    "Love Story \u2014 Taylor Swift",
+    "Enchanted \u2014 Taylor Swift"
+  ],
+  "O2-C3-E1-A3-N1": [
+    "Style \u2014 Taylor Swift",
+    "Karma Police \u2014 Radiohead"
+  ],
+  "O2-C3-E1-A3-N2": [
+    "Black Hole Sun \u2014 Soundgarden",
+    "Nothing Else Matters \u2014 Metallica"
+  ],
+  "O2-C3-E1-A3-N3": [
+    "Smack That \u2014 Akon",
+    "Gimme Shelter \u2014 The Rolling Stones"
+  ],
+  "O2-C3-E2-A1-N1": [
+    "Comfortably Numb \u2014 Pink Floyd",
+    "All the Small Things \u2014 Blink-182"
+  ],
+  "O2-C3-E2-A1-N2": [
+    "Welcome to the Jungle \u2014 Guns N\u2019 Roses",
+    "Bohemian Rhapsody \u2014 Queen"
+  ],
+  "O2-C3-E2-A1-N3": [
+    "Smells Like Teen Spirit \u2014 Nirvana",
+    "Billie Jean \u2014 Michael Jackson"
+  ],
+  "O2-C3-E2-A2-N1": [
+    "Shape of You \u2014 Ed Sheeran",
+    "Blinding Lights \u2014 The Weeknd"
+  ],
+  "O2-C3-E2-A2-N2": [
+    "Rolling in the Deep \u2014 Adele",
+    "Lose Yourself \u2014 Eminem"
+  ],
+  "O2-C3-E2-A2-N3": [
+    "Viva La Vida \u2014 Coldplay",
+    "Radioactive \u2014 Imagine Dragons"
+  ],
+  "O2-C3-E2-A3-N1": [
+    "Chandelier \u2014 Sia",
+    "Uptown Funk \u2014 Mark Ronson ft. Bruno Mars"
+  ],
+  "O2-C3-E2-A3-N2": [
+    "Wonderwall \u2014 Oasis",
+    "Somebody That I Used to Know \u2014 Gotye"
+  ],
+  "O2-C3-E2-A3-N3": [
+    "Numb \u2014 Linkin Park",
+    "Hey Ya! \u2014 Outkast"
+  ],
+  "O2-C3-E3-A1-N1": [
+    "Mr. Brightside \u2014 The Killers",
+    "Levitating \u2014 Dua Lipa"
+  ],
+  "O2-C3-E3-A1-N2": [
+    "Stairway to Heaven \u2014 Led Zeppelin",
+    "Poker Face \u2014 Lady Gaga"
+  ],
+  "O2-C3-E3-A1-N3": [
+    "Humble \u2014 Kendrick Lamar",
+    "Firework \u2014 Katy Perry"
+  ],
+  "O2-C3-E3-A2-N1": [
+    "Creep \u2014 Radiohead",
+    "All of Me \u2014 John Legend"
+  ],
+  "O2-C3-E3-A2-N2": [
+    "I Will Always Love You \u2014 Whitney Houston",
+    "Bad Guy \u2014 Billie Eilish"
+  ],
+  "O2-C3-E3-A2-N3": [
+    "Juice \u2014 Lizzo",
+    "Happy \u2014 Pharrell Williams"
+  ],
+  "O2-C3-E3-A3-N1": [
+    "Take On Me \u2014 a-ha",
+    "Stronger \u2014 Kanye West"
+  ],
+  "O2-C3-E3-A3-N2": [
+    "Shallow \u2014 Lady Gaga & Bradley Cooper",
+    "Heroes \u2014 David Bowie"
+  ],
+  "O2-C3-E3-A3-N3": [
+    "Titanium \u2014 David Guetta ft. Sia",
+    "Boulevard of Broken Dreams \u2014 Green Day"
+  ],
+  "O3-C1-E1-A1-N1": [
+    "Stayin' Alive \u2014 Bee Gees",
+    "Castle on the Hill \u2014 Ed Sheeran"
+  ],
+  "O3-C1-E1-A1-N2": [
+    "Seven Nation Army \u2014 The White Stripes",
+    "Shake It Off \u2014 Taylor Swift"
+  ],
+  "O3-C1-E1-A1-N3": [
+    "Old Town Road \u2014 Lil Nas X",
+    "Someone Like You \u2014 Adele"
+  ],
+  "O3-C1-E1-A2-N1": [
+    "I Gotta Feeling \u2014 Black Eyed Peas",
+    "Let It Be \u2014 The Beatles"
+  ],
+  "O3-C1-E1-A2-N2": [
+    "Born to Run \u2014 Bruce Springsteen",
+    "Eye of the Tiger \u2014 Survivor"
+  ],
+  "O3-C1-E1-A2-N3": [
+    "Dreams \u2014 Fleetwood Mac",
+    "Toxic \u2014 Britney Spears"
+  ],
+  "O3-C1-E1-A3-N1": [
+    "Lose Control \u2014 Missy Elliott",
+    "Good 4 U \u2014 Olivia Rodrigo"
+  ],
+  "O3-C1-E1-A3-N2": [
+    "Runaway \u2014 Kanye West",
+    "No Tears Left to Cry \u2014 Ariana Grande"
+  ],
+  "O3-C1-E1-A3-N3": [
+    "Clocks \u2014 Coldplay",
+    "Can't Stop the Feeling \u2014 Justin Timberlake"
+  ],
+  "O3-C1-E2-A1-N1": [
+    "Without Me \u2014 Halsey",
+    "Lucid Dreams \u2014 Juice WRLD"
+  ],
+  "O3-C1-E2-A1-N2": [
+    "Summertime Sadness \u2014 Lana Del Rey",
+    "In the End \u2014 Linkin Park"
+  ],
+  "O3-C1-E2-A1-N3": [
+    "Dancing Queen \u2014 ABBA",
+    "Counting Stars \u2014 OneRepublic"
+  ],
+  "O3-C1-E2-A2-N1": [
+    "Paint It Black \u2014 The Rolling Stones",
+    "Sweet Child O' Mine \u2014 Guns N' Roses"
+  ],
+  "O3-C1-E2-A2-N2": [
+    "Enter Sandman \u2014 Metallica",
+    "Back to Black \u2014 Amy Winehouse"
+  ],
+  "O3-C1-E2-A2-N3": [
+    "Royals \u2014 Lorde",
+    "Perfect \u2014 Ed Sheeran"
+  ],
+  "O3-C1-E2-A3-N1": [
+    "Happier Than Ever \u2014 Billie Eilish",
+    "Moves Like Jagger \u2014 Maroon 5"
+  ],
+  "O3-C1-E2-A3-N2": [
+    "Can\u2019t Feel My Face \u2014 The Weeknd",
+    "Rehab \u2014 Amy Winehouse"
+  ],
+  "O3-C1-E2-A3-N3": [
+    "Sorry \u2014 Justin Bieber",
+    "I Kissed a Girl \u2014 Katy Perry"
+  ],
+  "O3-C1-E3-A1-N1": [
+    "Dark Horse \u2014 Katy Perry",
+    "Tears Dry on Their Own \u2014 Amy Winehouse"
+  ],
+  "O3-C1-E3-A1-N2": [
+    "Don\u2019t Stop Believin\u2019 \u2014 Journey",
+    "Come As You Are \u2014 Nirvana"
+  ],
+  "O3-C1-E3-A1-N3": [
+    "All Star \u2014 Smash Mouth",
+    "Livin\u2019 on a Prayer \u2014 Bon Jovi"
+  ],
+  "O3-C1-E3-A2-N1": [
+    "Shake It Out \u2014 Florence + The Machine",
+    "Time \u2014 Pink Floyd"
+  ],
+  "O3-C1-E3-A2-N2": [
+    "Bad Romance \u2014 Lady Gaga",
+    "Closer \u2014 The Chainsmokers"
+  ],
+  "O3-C1-E3-A2-N3": [
+    "Faded \u2014 Alan Walker",
+    "Hall of Fame \u2014 The Script"
+  ],
+  "O3-C1-E3-A3-N1": [
+    "Believer \u2014 Imagine Dragons",
+    "Say My Name \u2014 Destiny\u2019s Child"
+  ],
+  "O3-C1-E3-A3-N2": [
+    "Single Ladies \u2014 Beyonc\u00e9",
+    "Survivor \u2014 Destiny\u2019s Child"
+  ],
+  "O3-C1-E3-A3-N3": [
+    "Break Free \u2014 Ariana Grande",
+    "Love Story \u2014 Taylor Swift"
+  ],
+  "O3-C2-E1-A1-N1": [
+    "Enchanted \u2014 Taylor Swift",
+    "Style \u2014 Taylor Swift"
+  ],
+  "O3-C2-E1-A1-N2": [
+    "Karma Police \u2014 Radiohead",
+    "Black Hole Sun \u2014 Soundgarden"
+  ],
+  "O3-C2-E1-A1-N3": [
+    "Nothing Else Matters \u2014 Metallica",
+    "Smack That \u2014 Akon"
+  ],
+  "O3-C2-E1-A2-N1": [
+    "Gimme Shelter \u2014 The Rolling Stones",
+    "Comfortably Numb \u2014 Pink Floyd"
+  ],
+  "O3-C2-E1-A2-N2": [
+    "All the Small Things \u2014 Blink-182",
+    "Welcome to the Jungle \u2014 Guns N\u2019 Roses"
+  ],
+  "O3-C2-E1-A2-N3": [
+    "Bohemian Rhapsody \u2014 Queen",
+    "Smells Like Teen Spirit \u2014 Nirvana"
+  ],
+  "O3-C2-E1-A3-N1": [
+    "Billie Jean \u2014 Michael Jackson",
+    "Shape of You \u2014 Ed Sheeran"
+  ],
+  "O3-C2-E1-A3-N2": [
+    "Blinding Lights \u2014 The Weeknd",
+    "Rolling in the Deep \u2014 Adele"
+  ],
+  "O3-C2-E1-A3-N3": [
+    "Lose Yourself \u2014 Eminem",
+    "Viva La Vida \u2014 Coldplay"
+  ],
+  "O3-C2-E2-A1-N1": [
+    "Radioactive \u2014 Imagine Dragons",
+    "Chandelier \u2014 Sia"
+  ],
+  "O3-C2-E2-A1-N2": [
+    "Uptown Funk \u2014 Mark Ronson ft. Bruno Mars",
+    "Wonderwall \u2014 Oasis"
+  ],
+  "O3-C2-E2-A1-N3": [
+    "Somebody That I Used to Know \u2014 Gotye",
+    "Numb \u2014 Linkin Park"
+  ],
+  "O3-C2-E2-A2-N1": [
+    "Hey Ya! \u2014 Outkast",
+    "Mr. Brightside \u2014 The Killers"
+  ],
+  "O3-C2-E2-A2-N2": [
+    "Levitating \u2014 Dua Lipa",
+    "Stairway to Heaven \u2014 Led Zeppelin"
+  ],
+  "O3-C2-E2-A2-N3": [
+    "Poker Face \u2014 Lady Gaga",
+    "Humble \u2014 Kendrick Lamar"
+  ],
+  "O3-C2-E2-A3-N1": [
+    "Firework \u2014 Katy Perry",
+    "Creep \u2014 Radiohead"
+  ],
+  "O3-C2-E2-A3-N2": [
+    "All of Me \u2014 John Legend",
+    "I Will Always Love You \u2014 Whitney Houston"
+  ],
+  "O3-C2-E2-A3-N3": [
+    "Bad Guy \u2014 Billie Eilish",
+    "Juice \u2014 Lizzo"
+  ],
+  "O3-C2-E3-A1-N1": [
+    "Happy \u2014 Pharrell Williams",
+    "Take On Me \u2014 a-ha"
+  ],
+  "O3-C2-E3-A1-N2": [
+    "Stronger \u2014 Kanye West",
+    "Shallow \u2014 Lady Gaga & Bradley Cooper"
+  ],
+  "O3-C2-E3-A1-N3": [
+    "Heroes \u2014 David Bowie",
+    "Titanium \u2014 David Guetta ft. Sia"
+  ],
+  "O3-C2-E3-A2-N1": [
+    "Boulevard of Broken Dreams \u2014 Green Day",
+    "Stayin' Alive \u2014 Bee Gees"
+  ],
+  "O3-C2-E3-A2-N2": [
+    "Castle on the Hill \u2014 Ed Sheeran",
+    "Seven Nation Army \u2014 The White Stripes"
+  ],
+  "O3-C2-E3-A2-N3": [
+    "Shake It Off \u2014 Taylor Swift",
+    "Old Town Road \u2014 Lil Nas X"
+  ],
+  "O3-C2-E3-A3-N1": [
+    "Someone Like You \u2014 Adele",
+    "I Gotta Feeling \u2014 Black Eyed Peas"
+  ],
+  "O3-C2-E3-A3-N2": [
+    "Let It Be \u2014 The Beatles",
+    "Born to Run \u2014 Bruce Springsteen"
+  ],
+  "O3-C2-E3-A3-N3": [
+    "Eye of the Tiger \u2014 Survivor",
+    "Dreams \u2014 Fleetwood Mac"
+  ],
+  "O3-C3-E1-A1-N1": [
+    "Toxic \u2014 Britney Spears",
+    "Lose Control \u2014 Missy Elliott"
+  ],
+  "O3-C3-E1-A1-N2": [
+    "Good 4 U \u2014 Olivia Rodrigo",
+    "Runaway \u2014 Kanye West"
+  ],
+  "O3-C3-E1-A1-N3": [
+    "No Tears Left to Cry \u2014 Ariana Grande",
+    "Clocks \u2014 Coldplay"
+  ],
+  "O3-C3-E1-A2-N1": [
+    "Can't Stop the Feeling \u2014 Justin Timberlake",
+    "Without Me \u2014 Halsey"
+  ],
+  "O3-C3-E1-A2-N2": [
+    "Lucid Dreams \u2014 Juice WRLD",
+    "Summertime Sadness \u2014 Lana Del Rey"
+  ],
+  "O3-C3-E1-A2-N3": [
+    "In the End \u2014 Linkin Park",
+    "Dancing Queen \u2014 ABBA"
+  ],
+  "O3-C3-E1-A3-N1": [
+    "Counting Stars \u2014 OneRepublic",
+    "Paint It Black \u2014 The Rolling Stones"
+  ],
+  "O3-C3-E1-A3-N2": [
+    "Sweet Child O' Mine \u2014 Guns N' Roses",
+    "Enter Sandman \u2014 Metallica"
+  ],
+  "O3-C3-E1-A3-N3": [
+    "Back to Black \u2014 Amy Winehouse",
+    "Royals \u2014 Lorde"
+  ],
+  "O3-C3-E2-A1-N1": [
+    "Perfect \u2014 Ed Sheeran",
+    "Happier Than Ever \u2014 Billie Eilish"
+  ],
+  "O3-C3-E2-A1-N2": [
+    "Moves Like Jagger \u2014 Maroon 5",
+    "Can\u2019t Feel My Face \u2014 The Weeknd"
+  ],
+  "O3-C3-E2-A1-N3": [
+    "Rehab \u2014 Amy Winehouse",
+    "Sorry \u2014 Justin Bieber"
+  ],
+  "O3-C3-E2-A2-N1": [
+    "I Kissed a Girl \u2014 Katy Perry",
+    "Dark Horse \u2014 Katy Perry"
+  ],
+  "O3-C3-E2-A2-N2": [
+    "Tears Dry on Their Own \u2014 Amy Winehouse",
+    "Don\u2019t Stop Believin\u2019 \u2014 Journey"
+  ],
+  "O3-C3-E2-A2-N3": [
+    "Come As You Are \u2014 Nirvana",
+    "All Star \u2014 Smash Mouth"
+  ],
+  "O3-C3-E2-A3-N1": [
+    "Livin\u2019 on a Prayer \u2014 Bon Jovi",
+    "Shake It Out \u2014 Florence + The Machine"
+  ],
+  "O3-C3-E2-A3-N2": [
+    "Time \u2014 Pink Floyd",
+    "Bad Romance \u2014 Lady Gaga"
+  ],
+  "O3-C3-E2-A3-N3": [
+    "Closer \u2014 The Chainsmokers",
+    "Faded \u2014 Alan Walker"
+  ],
+  "O3-C3-E3-A1-N1": [
+    "Hall of Fame \u2014 The Script",
+    "Believer \u2014 Imagine Dragons"
+  ],
+  "O3-C3-E3-A1-N2": [
+    "Say My Name \u2014 Destiny\u2019s Child",
+    "Single Ladies \u2014 Beyonc\u00e9"
+  ],
+  "O3-C3-E3-A1-N3": [
+    "Survivor \u2014 Destiny\u2019s Child",
+    "Break Free \u2014 Ariana Grande"
+  ],
+  "O3-C3-E3-A2-N1": [
+    "Love Story \u2014 Taylor Swift",
+    "Enchanted \u2014 Taylor Swift"
+  ],
+  "O3-C3-E3-A2-N2": [
+    "Style \u2014 Taylor Swift",
+    "Karma Police \u2014 Radiohead"
+  ],
+  "O3-C3-E3-A2-N3": [
+    "Black Hole Sun \u2014 Soundgarden",
+    "Nothing Else Matters \u2014 Metallica"
+  ],
+  "O3-C3-E3-A3-N1": [
+    "Smack That \u2014 Akon",
+    "Gimme Shelter \u2014 The Rolling Stones"
+  ],
+  "O3-C3-E3-A3-N2": [
+    "Comfortably Numb \u2014 Pink Floyd",
+    "All the Small Things \u2014 Blink-182"
+  ],
+  "O3-C3-E3-A3-N3": [
+    "Welcome to the Jungle \u2014 Guns N\u2019 Roses",
+    "Bohemian Rhapsody \u2014 Queen"
+  ]
+}
