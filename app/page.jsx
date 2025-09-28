@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import songs from "../data/songs.json";
+import songs from "../data/songs-1.json";
 
 export default function Home() {
   const [traits, setTraits] = useState({
