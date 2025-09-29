@@ -1,8 +1,8 @@
 "use client";
 
-import { useState } from "react";
-import songs from "@/data/songs-1.json";
-import diaries from "@/data/mbti_diaries_v10.json";
+import { useState } from "react"; 
+import songs from "../data/songs-1.json";
+import diaries from "../data/mbti_diaries_v10.json";
 
 export default function Home() {
   const [traits, setTraits] = useState({
